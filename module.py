@@ -1,4 +1,4 @@
-database = {}
+database = dict()
 
 
 def register(username, password):
